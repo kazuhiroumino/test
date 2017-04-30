@@ -1,0 +1,59 @@
+@CHARSET "UTF-8";
+
+#cart{
+		margin-left: 20px;
+}
+
+#cart h4{
+	text-align: center;
+}
+
+table , td, th {
+
+
+	border: 1px solid #595959;
+	font-size:120%;
+
+	margin-left: 20px;
+}
+
+th {
+
+
+	height: 50px;
+
+}
+td{
+	padding: 3px;
+
+}
+
+.table-text{
+	text-align: center;
+
+}
+
+.item_img{
+	width: 90px;
+}
+
+.item_name{
+	width: 540px;
+}
+
+.item_count{
+	width: 150px;
+}
+
+.item_price{
+	width: 150px;
+}
+
+#decision-out{
+	width:300px;
+	background-color:#DEB887;
+}
+#decision-in{
+	width:200px;
+}
+

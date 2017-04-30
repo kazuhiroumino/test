@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+body{
+background-image: url(../img/kabe.jpg);
+background-attachment: fixed;
+background-size: cover;
+color:#000000;
+}
+
+#top img{
+	margin-left:60px;
+}
+.twitter{
+	width:400px;
+	float:left;
+}
+
+.ggmp{
+	float:right;
+}
+.clear{
+	clear:both
+}
+
+/*下線なし、黒、リンクしても色が変わらない*/
+a:link { color:#0000ff;   }
+ a:visited { color:#0000ff; text-decoration:none }
+ a:hover { color:#0000ff; text-decoration:none }
+ a:active { color:#0000ff; text-decoration:none }
+
+

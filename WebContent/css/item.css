@@ -1,0 +1,52 @@
+@CHARSET "UTF-8";
+
+#itemblock{
+	text-align:center;
+	 color:#0077ff;
+	 margin-top:10px;
+	margin-left:20px;
+}
+
+#itemlist{
+	 color:#0077ff;
+	margin-top:20px;
+}
+
+
+}
+
+#item li{
+	list-style:none;
+}
+
+/*-----------------商品一覧-----------------*/
+
+
+
+/*-----------------商品詳細-----------------*/
+
+
+
+
+
+
+/*-----------------カート-----------------*/
+
+table {
+	text-align:center;
+	width:800px;
+
+}
+
+td{
+
+	padding:5px;
+}
+
+
+/*-----------------決済-----------------*/
+
+
+
+
+

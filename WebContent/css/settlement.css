@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+
+h4{
+	text-align: center;
+		font-size:120%;
+}
+
+table , td, th {
+	border: 1px solid #595959;
+	border-collapse: collapse;
+	margin:auto;
+}
+td, th {
+	padding: 3px;
+	height: 50px;
+}
+th {
+	background: #f0e6cc;
+	width: 150px;
+}
+td {
+
+	width: 300px;
+}
+.even {
+	background: #fbf8f0;
+}
+.odd {
+	background: #fefcf9;
+}
+
+/*-----------クレジット入力画面------------*/
+#settlement{
+	text-align:center;
+	color:#000;
+}
+
+
+/*-----------確認画面------------*/
+
+#confirmation{
+	text-align: center;
+	font-size:120%;
+}
+/*-----------完了画面------------*/
+
+#complete{
+	text-align: center;
+	font-size:120%;
+}
+
+
+/*下線なし、黒、リンクしても色が変わらない*/
+a:link { color:#000000; text-decoration:none }
+ a:visited { color:#000000; text-decoration:none }
+ a:hover { color:#000000; text-decoration:none }
+ a:active { color:#000000; text-decoration:none }
+a {text-decoration: none;}
+
+
+
